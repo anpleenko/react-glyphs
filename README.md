@@ -1,1 +1,1 @@
-# react-hr-glyphs-svg
+# react-glyphs
